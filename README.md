@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# therodgersgroup-dist
-Distro of the Rodgers group theme
-=======
 # FoundationPress
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/olefredrik/foundationpress?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
@@ -174,4 +170,3 @@ Pull requests are highly appreciated. Please follow these guidelines:
 2. Make sure that your code is bug-free and does not introduce new bugs
 3. Create a [pull request](https://help.github.com/articles/creating-a-pull-request)
 4. Verify that all the Travis-CI build checks have passed
->>>>>>> 8b6e10e... initial commit
